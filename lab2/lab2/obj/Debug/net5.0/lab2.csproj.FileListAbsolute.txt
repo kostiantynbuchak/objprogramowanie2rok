@@ -1,0 +1,16 @@
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\lab2.exe
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\lab2.deps.json
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\lab2.dll
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\ref\lab2.dll
+F:\lab2 bazy\1\lab2\lab2\bin\Debug\net5.0\lab2.pdb
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.csproj.AssemblyReference.cache
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.dll
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\ref\lab2.dll
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.pdb
+F:\lab2 bazy\1\lab2\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
